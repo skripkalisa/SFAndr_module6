@@ -1,5 +1,3 @@
-package Mod6.Task;
-
 class Staff extends Company {
     protected String position;
     protected String name;
