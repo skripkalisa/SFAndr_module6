@@ -1,5 +1,3 @@
-package Mod6.Task;
-
 public class Main {
     public static void main(String[] args) {
         Board bigBoss = new Board("CEO", "Mr. Roboto", 44 );
