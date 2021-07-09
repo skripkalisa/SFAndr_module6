@@ -1,4 +1,3 @@
-package Mod6.Task;
 
 public class Client extends Company{
     String name;
