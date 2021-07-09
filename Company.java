@@ -1,4 +1,3 @@
-package Mod6.Task;
 
 class Company {
 
